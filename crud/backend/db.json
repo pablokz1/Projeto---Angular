@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 5.5
+    },
+    {
+      "id": 2,
+      "name": "Pão",
+      "price": 1.5
+    },
+    {
+      "id": 3,
+      "name": "Batata",
+      "price": 5.5
+    }
+  ]
+}
