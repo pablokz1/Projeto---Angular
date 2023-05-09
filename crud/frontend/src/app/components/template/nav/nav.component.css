@@ -3,10 +3,15 @@
     width: 200px;
 }
 
-.sidenav a{
-    color: #fff;
+.sidenav_link > .mdc-list-item__content > span {
+    color: #fff!important;
 }
 
 .sidenav i {
     padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #fff;
 }
